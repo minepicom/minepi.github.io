@@ -1,2 +1,2 @@
-# minepi.github.io
-minepi.github.io is boclkchain brower on pi network
+# pinodes.github.io
+pinodes.github.io is boclkchain brower on pi network
